@@ -1,3 +1,3 @@
-# Chanta Hello everyone, today is a good day to have a good day!
+# Chanta
 
 Hello everyone, today is a good day to have a good day!
